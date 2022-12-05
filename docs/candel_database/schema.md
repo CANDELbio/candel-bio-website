@@ -2,6 +2,6 @@
 layout: page
 title: CANDEL Schema
 permalink: /candel_database/schema/
-parent: Candel Database
+parent: CANDEL Database
 nav_order: 3
 ---

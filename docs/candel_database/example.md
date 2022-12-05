@@ -2,6 +2,6 @@
 layout: page
 title: Example Walkthrough
 permalink: /candel_database/example/
-parent: Candel Database
+parent: CANDEL Database
 nav_order: 6
 ---

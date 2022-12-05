@@ -2,6 +2,6 @@
 layout: page
 title: Overview
 permalink: /candel_database/overview/
-parent: Candel Database
+parent: CANDEL Database
 nav_order: 2
 ---
