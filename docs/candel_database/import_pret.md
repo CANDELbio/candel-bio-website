@@ -10,11 +10,11 @@ nav_order: 5
 # pret
 {: .no_toc }
 
-**pret**, which stands for "Programmable ETL" (and also means *ready* in French), is the tool that enables you to map arbitrary datasets onto the CANDEL [schema]({{ site.baseurl }}{% link docs/schema.markdown %}), and allows you to request a new database and load data into it
+**pret**, which stands for "Programmable ETL" (and also means *ready* in French), is the tool that enables you to map arbitrary datasets onto the CANDEL [schema](), and allows you to request a new database and load data into it
 
 Please use the sidebar to navigate to instructions about using the pret CLI as well as detailed documentation on the directives that specify how data is processed by pret.
 
-If you prefer to learn by looking at real-world practical examples, please go to the [Importing data]({{ site.baseurl }}{% link docs/importing_data/importing_data.markdown %})
+If you prefer to learn by looking at real-world practical examples, please go to the [Importing data]()
 
 
 ## Environment setup and installation
@@ -108,4 +108,4 @@ OUTPUT: `Request successful, created database:  candel-db-123`
 
 ### Diff merge documentation
 
-See the full diff workflow documentation [here]({{ site.baseurl }}{% link docs/importing_data/diffing_and_merging.markdown %})
+See the full diff workflow documentation [here]()

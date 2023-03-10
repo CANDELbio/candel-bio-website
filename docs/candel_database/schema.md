@@ -10,7 +10,7 @@ nav_order: 3
 # The CANDEL Schema
 {: .no_toc }
 
-In order to use CANDEL effectively you will have to familiarize yourself with the CANDEL schema. This [schema viewer](/alzabo/resources/public/schema/0.5.0/), provides a GUI to browse the structure of the schema and the documentation associated with each attribute. A [PDF diagram](https://github.com/ParkerICI/pret/blob/master/resources/schema/Datomic%20schema%20-%20pret.pdf) of the schema is also available
+In order to use CANDEL effectively you will have to familiarize yourself with the CANDEL schema. This [schema viewer](), provides a GUI to browse the structure of the schema and the documentation associated with each attribute. A [PDF diagram]() of the schema is also available
 
 The rest of this page provides more details on how certainly critical aspects of the data are modeled. While this stuff is useful to understand the logic behind the schema, it is not necessary to go to this level of depth before starting to use CANDEL
 
