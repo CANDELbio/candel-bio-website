@@ -12,7 +12,7 @@ nav_order: 3
 
 [Enflame](https://github.com/CANDELbio/enflame) is a visual query builder for CANDEL. You can construct a query by combining blocks. You can then run the query against a selected CANDEL database, or you can take the generated text representation of it (in both Clojure and R (Wick) formats) and include them in your own code.  
 
- ![layout](../assets/enflame_layout.png)
+ ![layout](../../assets/enflame_layout.png)
 
  ### Links
 

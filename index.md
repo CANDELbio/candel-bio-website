@@ -8,7 +8,11 @@ title: Introduction
 
 Welcome to CANDELbio! Our documentation will eventually be here.
 
+## Key Links
 
+- [Public CANDEL enflame dashboard]()
+- [Dataset Descriptions]()
+- [Interactive CANDEL schema viewer]()
 
 
 ## CANDEL Platform: informatics software suite
