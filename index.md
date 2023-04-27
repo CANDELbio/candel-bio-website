@@ -6,13 +6,7 @@ title: Introduction
 
 ## Overview
 
-Welcome to CANDELbio! Our documentation will eventually be here.
-
-## Key Links
-
-- [Public CANDEL enflame dashboard]()
-- [Dataset Descriptions]()
-- [Interactive CANDEL schema viewer]()
+Welcome to CANDELbio! Our documentation is still very much a work in progress.
 
 
 ## CANDEL Platform: informatics software suite
@@ -59,7 +53,7 @@ To see what kind of data we keep in CANDEL, try checking out the [schema](), whi
 
 
 ### Terra: for running complex pipelines on lots of samples
-<img src="assets/logo-wShadow.bef51b74.svg" alt="Terra" width="100"/>
+<img src="assets/Terra-Bio-App.webp" alt="Terra" width="100"/>
  
 [Terra](https://app.terra.bio) is a cloud based workflow runner developed by the Broad Institute for handing large genomics pipelines in parallel. We use it for Because it runs off of docker images, we can use it for much more than genomics work, including segmentation of cells in images.
 
